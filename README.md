@@ -11,8 +11,8 @@ After developing these drivers I simply included these driver files in my projec
 Components used and connnection detail
 The hardware components required for this project are :
 
-1.STM32F407 Discovery Kit
-2.LCD 16x02 and I2C Module
-3.GSM A6 Module
-4.Hex Keypad
-5.8Ω Speakers and Condensor Microphone
+1.STM32F407 Discovery Kit                
+2.LCD 16x02 and I2C Module                
+3.GSM A6 Module                  
+4.Hex Keypad                                
+5.8Ω Speakers and Condensor Microphone            
